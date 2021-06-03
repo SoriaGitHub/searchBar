@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883189851647",
+    "project_id": "searchbar2",
+    "storage_bucket": "searchbar2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883189851647:android:a89ac023bd95e3926f33ca",
+        "android_client_info": {
+          "package_name": "com.bryansoria.searchbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883189851647-r7c4r49o188jd55elv9po72tba0skhqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2xXaM-k7sA5piXQuRarM2-rcLMVTTTDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883189851647-r7c4r49o188jd55elv9po72tba0skhqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
